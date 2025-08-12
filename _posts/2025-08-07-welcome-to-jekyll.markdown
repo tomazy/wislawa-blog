@@ -22,6 +22,16 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+
+Here's how we add images:
+
+![boats on the water](/assets/images/boats.jpeg)
+
+Here's how to use thumbs. Clicking them opens the full image in a new tab:
+
+[![boats on the water](/assets/images/thumbs/boats.jpeg)](/assets/images/boats.jpeg)
+[![looking out](/assets/images/thumbs/looking out.jpeg)](/assets/images/looking out.jpeg)
+
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
